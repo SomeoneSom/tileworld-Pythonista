@@ -4,6 +4,6 @@ A version of tileworld (A clone of Chips Challenge) in Pythonista (made by a guy
 Getting level from a .DAT file
 # Features Being Worked On
 Sprites/Tiles
-#Changelog
+# Changelog
 10/1/20 v0.1:
 - Initial Commit
